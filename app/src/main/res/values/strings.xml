@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Ejercicio3_Notification</string>
+    <string name="title">Notification</string>
+    <string name="body">Custom</string>
+    <string name="footnote">footnote</string>
 </resources>
